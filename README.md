@@ -353,3 +353,7 @@ The concept originated from studies on psychoanalysis [Executive functions](http
 > The central executive, or executive functions, is crucial for controlled processing in working memory. It manages tasks including directing attention, maintaining task objectives, decision-making, and memory retrieval.
 
 This sparks an intriguing possibility: constructing more sophisticated agents by integrating `System 1` and `System 2`. The LLM, as the cognitive executor `System 1`, works in tandem with the Central Executive `System 2`, which governs and controls the LLM. This partnership forms the dual relationship foundational to Mentals AI.
+
+## Development
+
+`make` builds the runtime; the example agents under `agents/` are runnable without changes.
