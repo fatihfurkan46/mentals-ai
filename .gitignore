@@ -10,3 +10,5 @@ pacman_game/
 ai_videos.csv
 
 config.toml
+.cache/
+compile_commands.json

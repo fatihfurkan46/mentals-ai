@@ -1,3 +1,4 @@
+# Runtime tool table: one [[instruction]] block per tool; loaded before the first turn.
 #####################################
 ### Send message
 #####################################
